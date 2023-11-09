@@ -1,0 +1,74 @@
+.DynamicColorCard_card__R\+7KX{
+    display: flex;
+    max-width: 320px;
+    flex-direction: column;
+    border-radius: 0.75rem;
+    padding-top: 50px;
+    padding-bottom: 1.25rem;
+    --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+    box-shadow: 0 0 #0000, 0 0 #0000, var(--tw-shadow);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.DynamicColorCard_card__R\+7KX img{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-width: 5px;
+    --tw-border-opacity: 1;
+    border-color: rgb(255 255 255 / var(--tw-border-opacity));
+    --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
+    box-shadow: 0 0 #0000, 0 0 #0000, var(--tw-shadow);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.DynamicColorCard_card__R\+7KX .DynamicColorCard_details__HWNxr{
+    margin-bottom: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    text-align: center;
+}
+
+.DynamicColorCard_card__R\+7KX .DynamicColorCard_details__HWNxr h4{
+    margin-bottom: 0.25rem;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.DynamicColorCard_card__R\+7KX .DynamicColorCard_details__HWNxr h5{
+    font-size: 0.875rem;
+    font-weight: 400;
+}
+
+.DynamicColorCard_card__R\+7KX .DynamicColorCard_details__HWNxr .DynamicColorCard_description__Hk2A4{
+    margin-top: 0.5rem;
+    width: 100%;
+    text-align: left;
+    font-weight: 400;
+}
+
+.DynamicColorCard_card__R\+7KX .DynamicColorCard_buttons__FlQBh{
+    margin-top: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.DynamicColorCard_card__R\+7KX .DynamicColorCard_buttons__FlQBh button{
+    min-width: 100px;
+    border-radius: 24px;
+    border-width: 2px;
+    border-style: solid;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
+    box-shadow: 0 0 #0000, 0 0 #0000, var(--tw-shadow);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+/*# sourceMappingURL=stories-components-Cards-DynamicColorCard-DynamicColorCard-stories.06822d2c.chunk.css.map*/

@@ -12,7 +12,7 @@
 }
 
 .DynamicColorCard_card__R\+7KX img{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin-left: auto;
     margin-right: auto;
     height: 100px;
@@ -35,20 +35,24 @@
 }
 
 .DynamicColorCard_card__R\+7KX .DynamicColorCard_details__HWNxr h4{
-    margin-bottom: 0.25rem;
-    font-size: 1rem;
+    margin-top: 0.25rem;
+    font-size: 1.125rem;
     font-weight: 700;
+    line-height: 1;
 }
 
 .DynamicColorCard_card__R\+7KX .DynamicColorCard_details__HWNxr h5{
+    margin-top: 0.5rem;
     font-size: 0.875rem;
     font-weight: 400;
+    line-height: 1;
 }
 
 .DynamicColorCard_card__R\+7KX .DynamicColorCard_details__HWNxr .DynamicColorCard_description__Hk2A4{
-    margin-top: 0.5rem;
+    margin-top: 0.75rem;
     width: 100%;
     text-align: left;
+    font-size: 1rem;
     font-weight: 400;
 }
 
@@ -71,4 +75,4 @@
     box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-/*# sourceMappingURL=stories-components-Cards-DynamicColorCard-DynamicColorCard-stories.06822d2c.chunk.css.map*/
+/*# sourceMappingURL=stories-components-Cards-DynamicColorCard-DynamicColorCard-stories.4fb04260.chunk.css.map*/

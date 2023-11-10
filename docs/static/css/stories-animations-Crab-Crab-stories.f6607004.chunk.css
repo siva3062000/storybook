@@ -1,0 +1,165 @@
+.Crab_container__Gm0\+l{
+    font-size: .6rem;
+    width: calc(1rem*17);
+    height: calc(1rem*22);
+}
+@media (min-width:500px) {
+    .Crab_container__Gm0\+l{
+        font-size: 0.875rem;
+    }
+} 
+@media (min-width:800px) {
+    .Crab_container__Gm0\+l{
+        font-size: 1rem;
+    }
+}
+.Crab_crab__DuzDq{
+    height: 9em;
+    width: 16em;    
+    /* background-color: red; */
+    border-radius: 0 0 6em 6em;
+    box-shadow: -0.6em 0.25em 0 0.25em ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    animation: Crab_move__JXrXU 3s alternate infinite ease-in-out;
+}
+
+@keyframes Crab_move__JXrXU {
+    0% {
+        left: -3em;
+    }
+    100% {
+        left: 3em;
+    }
+}
+
+.Crab_hands__VRBlN {
+    height: 6.25em;
+    width: 20.25em;
+    border: 0.7em solid ;
+    position: absolute;
+    left: -2.6em;
+    bottom: 6.1em;
+    z-index: -1;
+    border-radius: 0 0 9.37em 9.37em;
+    box-shadow: -.1em 0.1em 0.1em .01em rgba(0, 0, 0, .2);
+    border-top: none;
+  }
+
+.Crab_claw-1-l__JqGI3, .Crab_claw-1-r__vNJoS, .Crab_claw-2-l__x3XJI, .Crab_claw-2-r__HDsfu{
+    height: 4em;
+    width: 2em;
+    /* background-color: red; */
+    position: absolute;
+    top: -3.6em;
+    transform-origin: 50% 100%;
+}
+.Crab_claw-1-l__JqGI3,.Crab_claw-2-l__x3XJI{
+    border-radius: 2.5em 0 0 2.5em;
+    transform: rotate(0deg);
+    animation: Crab_claw-l__UbBnG 3s alternate infinite ease-in-out;
+}
+@keyframes Crab_claw-l__UbBnG {
+    100%{
+        transform: rotate(-15deg);
+    }
+}
+.Crab_claw-1-r__vNJoS,.Crab_claw-2-r__HDsfu{
+    border-radius:  0 2.5em 2.5em 0;
+    transform: rotate(0deg);
+    animation: Crab_claw-r__30QCt 3s alternate infinite ease-in-out;
+}
+@keyframes Crab_claw-r__30QCt {
+    100%{
+        transform: rotate(15deg);
+    }
+}
+.Crab_claw-1-l__JqGI3{
+    left: -2.4em;
+}
+.Crab_claw-1-r__vNJoS{
+    left: -0.35em;
+}
+.Crab_claw-2-l__x3XJI{
+    right: -0.35em;
+}
+.Crab_claw-2-r__HDsfu{
+    right: -2.4em;
+}
+
+.Crab_eye-l__-g89D,.Crab_eye-r__sHOEh{
+    height: 3.2em;
+    width: 3.2em;
+    background-color: black;
+    border: .6em solid white;
+    outline: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+    position: absolute;
+    top: -3.2em;
+}
+.Crab_eye-l__-g89D{
+    left: 3.5em;
+}
+.Crab_eye-r__sHOEh{
+    right: 3.5em;
+}
+
+.Crab_mouth__MpGDm{
+    height: 1em;
+    width: 2.5em;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: .35em solid ;
+    border-top: none;
+    border-radius: 0em 0 2em 2em;
+    position: absolute;
+    top: 2em;
+    left: 6.7em;
+    animation: Crab_mouth__MpGDm 1s infinite alternate;
+}
+
+@keyframes Crab_mouth__MpGDm {
+    100% {
+        /* background-color: transparent; */
+        border-radius: 0 0 .7em .7em;
+    }
+}
+
+.Crab_legs-1__J3mlT,.Crab_legs-2__b8m8C,.Crab_legs-3__E10SU{
+    width: .85em;
+    /* background-color: #99151b; */
+    position: absolute;
+    z-index: -1;
+    border-radius: 0 0 1em 1em;
+}
+.Crab_legs-1__J3mlT{
+    height: 8em;
+    top: .5em;
+    left: -.7em;
+    box-shadow: 15.5em 0 0 ;
+    animation: Crab_legs__15eG- 1s infinite alternate-reverse ease-in-out;
+}
+.Crab_legs-2__b8m8C{
+    height: 9.5em;
+    top: 1.5em;
+    left: .8em;
+    box-shadow: 12.5em 0 0 ;
+    animation: Crab_legs__15eG- 1s infinite alternate ease-in-out;
+}
+.Crab_legs-3__E10SU{
+    height: 11.5em;
+    top: 1.2em;
+    left: 3.2em;
+    box-shadow: 8em 0 0 ;
+    animation: Crab_legs__15eG- 1s infinite alternate-reverse ease-in-out;
+}
+@keyframes Crab_legs__15eG- {
+    100%{
+        top: 0;
+    }
+}
+
+/*# sourceMappingURL=stories-animations-Crab-Crab-stories.f6607004.chunk.css.map*/

@@ -511,8 +511,17 @@ video {
     max-width: 1536px;
   }
 }
+.mt-2 {
+  margin-top: 0.5rem;
+}
+.flex {
+  display: flex;
+}
 .contents {
   display: contents;
+}
+.justify-between {
+  justify-content: space-between;
 }
 
 *,h4,h5,
@@ -521,6 +530,7 @@ video {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    line-height: 1;
 }
 
-/*# sourceMappingURL=main.92013815.css.map*/
+/*# sourceMappingURL=main.8623e1f2.css.map*/

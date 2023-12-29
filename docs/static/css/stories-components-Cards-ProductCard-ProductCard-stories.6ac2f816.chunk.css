@@ -1,0 +1,153 @@
+
+
+
+/* .boat-lifestyle-product-card variant starts */
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg{
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    --tw-bg-opacity: 1;
+    background-color: rgb(250 250 250 / var(--tw-bg-opacity));
+    --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);
+    box-shadow: 0 0 #0000, 0 0 #0000, var(--tw-shadow);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_imageWrapper__ppVg5{
+    position: relative;
+    /* aspect-ratio: 1;
+    isolation: isolate; */
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_imageWrapper__ppVg5 .ProductCard_imageContainer__aCg6Q{
+    display: block;
+    max-width: 320px;
+    aspect-ratio: 1;
+}
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_imageWrapper__ppVg5 .ProductCard_tag__d7fzs{
+    position: absolute;
+    top: 0.5rem;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+    font-size: 0.625rem;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+    padding: 4px 8px 5px 3px;
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_imageWrapper__ppVg5 .ProductCard_label__w-y5I{
+    position: absolute;
+    bottom: -.55rem;
+    left: 15%;
+    width: 70%;
+    border-radius: 0.75rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(252 197 11 / var(--tw-bg-opacity));
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_imageWrapper__ppVg5 .ProductCard_productImage__\+uu80{
+    /* @apply ; */
+    width: 100%;
+    height: 100%;
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha-{
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    padding-top: 1rem;
+    padding-bottom: 0.75rem;
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_productName__QgLhD{
+    font-size: 0.875rem;
+    font-weight: 700;
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_colors__UApmv .ProductCard_colorOption__iwjz1{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_colors__UApmv .ProductCard_remaingColorsCount__7tbWL{
+    font-size: 0.875rem;
+    --tw-text-opacity: 1;
+    color: rgb(78 83 88 / var(--tw-text-opacity));
+    vertical-align: middle;
+}
+
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_price__5Owei .ProductCard_discountPrice__konch{
+    margin-right: 0.25rem;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1;
+}
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_price__5Owei .ProductCard_actualPrice__Ln5xW{
+    margin-right: 0.25rem;
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1;
+    --tw-text-opacity: 1;
+    color: rgb(178 185 191 / var(--tw-text-opacity));
+    text-decoration-line: line-through;
+}
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_price__5Owei .ProductCard_discountPercentage__EimLN{
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1;
+    --tw-text-opacity: 1;
+    color: rgb(18 185 133 / var(--tw-text-opacity));
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU{
+    margin-top: 0.5rem;
+    display: flex;
+    align-items: center;
+    column-gap: 0.25rem;
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU .ProductCard_ratings__1bLi7, .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU .ProductCard_reviews__hgZws{
+    font-size: 0.75rem;
+    line-height: 1;
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU .ProductCard_ratings__1bLi7{
+    border-right-width: 1px;
+    --tw-border-opacity: 1;
+    border-right-color: rgb(185 185 185 / var(--tw-border-opacity));
+    padding-right: 0.25rem;
+}
+
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_buttons__zkn4p .ProductCard_button__95Gyp{
+    display: block;
+    border-radius: 0.75rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+    padding: 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1;
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+/* .boat-lifestyle-product-card variant ends */
+
+/*# sourceMappingURL=stories-components-Cards-ProductCard-ProductCard-stories.6ac2f816.chunk.css.map*/

@@ -1,0 +1,110 @@
+
+
+/* variant:boat-lifestyle-video-card starts */
+
+.VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K {
+
+    position: relative;
+
+    display: flex;
+
+    max-width: 240px;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    overflow: hidden;
+
+    border-radius: 0.75rem;
+
+    border-width: 2px;
+
+    border-style: solid;
+
+    --tw-border-opacity: 1;
+
+    border-color: rgb(238 240 244 / var(--tw-border-opacity));
+
+    text-align: center
+}
+
+.VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_imageWrapper__X3ItT {
+
+    margin-top: -25px;
+
+    aspect-ratio: 1 / 1;
+
+    --tw-bg-opacity: 1;
+
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+
+    padding: 0.25rem
+}
+
+.VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_detailsSection__C6UAs {
+
+    padding-left: 0.5rem;
+
+    padding-right: 0.5rem;
+
+    padding-top: 1.5rem;
+
+    padding-bottom: 1rem
+}
+
+.VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_detailsSection__C6UAs .VideoCard_heading__Td8\+a {
+
+    font-size: 1rem;
+
+    font-weight: 700
+}
+
+.VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_detailsSection__C6UAs .VideoCard_price__nordf {
+
+    margin-top: 1.5rem
+}
+.VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_detailsSection__C6UAs .VideoCard_price__nordf .VideoCard_discountPrice__Mp2TO {
+
+    margin-right: 0.5rem;
+
+    display: inline-block;
+
+    font-size: 1rem;
+
+    font-weight: 700;
+
+    line-height: 1
+}
+.VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_detailsSection__C6UAs .VideoCard_price__nordf .VideoCard_actualPrice__oCL6N {
+
+    margin-right: 0.5rem;
+
+    display: inline-block;
+
+    font-size: 0.875rem;
+
+    line-height: 1;
+
+    --tw-text-opacity: 1;
+
+    color: rgb(178 185 191 / var(--tw-text-opacity));
+
+    text-decoration-line: line-through
+}
+.VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_detailsSection__C6UAs .VideoCard_price__nordf .VideoCard_discountPercentage__40sqO {
+
+    display: inline-block;
+
+    font-size: 0.875rem;
+
+    line-height: 1;
+
+    --tw-text-opacity: 1;
+
+    color: rgb(18 185 133 / var(--tw-text-opacity))
+}
+
+/* variant:boat-lifestyle-video-card ends */
+
+/*# sourceMappingURL=stories-components-Cards-VideoCard-VideCard-stories.f4843910.chunk.css.map*/

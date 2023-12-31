@@ -148,4 +148,108 @@
 }
 /* Boat-lifeStyle Jemimah Rodrigues profile card ends */
 
-/*# sourceMappingURL=stories-components-Cards-ProfileCard-ProfileCard-stories.7e90ebab.chunk.css.map*/
+
+/* boat-lifeStyle-blog-card profile card starts */
+.ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6{
+    max-width: 320px;
+    overflow: hidden;
+    border-radius: 0.75rem;
+    border-width: 1px;
+    border-style: solid;
+    --tw-border-opacity: 1;
+    border-color: rgb(236 240 244 / var(--tw-border-opacity));
+    --tw-bg-opacity: 1;
+    background-color: rgb(250 250 250 / var(--tw-bg-opacity));
+}
+
+.ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_details__T0H14{
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    padding-top: 0.75rem;
+}
+
+.ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_details__T0H14 .ProfileCard_date__7kG5s{
+    margin-bottom: 7.5px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1.167;
+    --tw-text-opacity: 1;
+    color: rgb(134 140 145 / var(--tw-text-opacity));
+}
+
+.ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_details__T0H14 .ProfileCard_title__ajC1J{
+    margin-bottom: 7.5px;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.2;
+    --tw-text-opacity: 1;
+    color: rgb(25 30 35 / var(--tw-text-opacity));
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+}
+
+@media (min-width: 768px){
+    .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_details__T0H14 .ProfileCard_title__ajC1J{
+        font-size: 1.125rem;
+    }
+}
+
+.ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_details__T0H14 .ProfileCard_description__-1f3G{
+    margin-bottom: 15px;
+    font-size: 0.75rem;
+    line-height: 1.167;
+    --tw-text-opacity: 1;
+    color: rgb(78 83 88 / var(--tw-text-opacity));
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+}
+
+.ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_buttons__QydJP{
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+    margin-bottom: 1.5rem;
+}
+.ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_buttons__QydJP .ProfileCard_button__uDuVk{
+    display: block;
+    width: 100%;
+    border-radius: 20px;
+    border-width: 1px;
+    border-style: solid;
+    --tw-border-opacity: 1;
+    border-color: rgb(208 217 222 / var(--tw-border-opacity));
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 38px;
+    --tw-text-opacity: 1;
+    color: rgb(26 32 36 / var(--tw-text-opacity));
+}
+.ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_buttons__QydJP .ProfileCard_button__uDuVk::after{
+    margin-left: 0.25rem;
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    background-size: contain;
+    vertical-align: middle;
+    content: var(--tw-content);
+    --tw-text-opacity: 1;
+    color: rgb(26 32 36 / var(--tw-text-opacity));
+    background-color: #1a2024;
+    -webkit-mask-image: url(../../0a5a7857d4eeda05c9ba.svg);
+    mask-image: url(../../0a5a7857d4eeda05c9ba.svg);
+    -webkit-mask-size: cover;
+            mask-size: cover;
+}
+
+
+/* boat-lifeStyle-blog-card profile card ends */
+
+/*# sourceMappingURL=stories-components-Cards-ProfileCard-ProfileCard-stories.1f60073c.chunk.css.map*/

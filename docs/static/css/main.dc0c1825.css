@@ -481,10 +481,10 @@ video {
 .container {
   width: 100%;
 }
-@media (min-width: 640px) {
+@media (min-width: 480px) {
 
   .container {
-    max-width: 640px;
+    max-width: 480px;
   }
 }
 @media (min-width: 768px) {
@@ -499,16 +499,10 @@ video {
     max-width: 1024px;
   }
 }
-@media (min-width: 1280px) {
+@media (min-width: 1440px) {
 
   .container {
-    max-width: 1280px;
-  }
-}
-@media (min-width: 1536px) {
-
-  .container {
-    max-width: 1536px;
+    max-width: 1440px;
   }
 }
 .mt-3 {
@@ -533,4 +527,4 @@ video {
     line-height: 1;
 }
 
-/*# sourceMappingURL=main.e30054b5.css.map*/
+/*# sourceMappingURL=main.dc0c1825.css.map*/

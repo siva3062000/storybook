@@ -127,11 +127,11 @@
     line-height: 1;
 }
 
-.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU .ProductCard_ratings__1bLi7{
-    border-right-width: 1px;
+.ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU .ProductCard_reviews__hgZws{
+    border-left-width: 1px;
     --tw-border-opacity: 1;
-    border-right-color: rgb(185 185 185 / var(--tw-border-opacity));
-    padding-right: 0.25rem;
+    border-left-color: rgb(185 185 185 / var(--tw-border-opacity));
+    padding-left: 0.25rem;
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_buttons__zkn4p .ProductCard_button__95Gyp{
@@ -149,4 +149,4 @@
 
 /* .boat-lifestyle-product-card variant ends */
 
-/*# sourceMappingURL=stories-components-Cards-ProductCard-ProductCard-stories.7cd04d4a.chunk.css.map*/
+/*# sourceMappingURL=stories-components-Cards-ProductCard-ProductCard-stories.7d9a3c6e.chunk.css.map*/

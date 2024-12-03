@@ -563,7 +563,7 @@ button.swiper-pagination-bullet {
     flex-direction: column;
     border-radius: 0.75rem;
     padding-top: 50px;
-    padding-bottom: 1.25rem;
+    padding-bottom: 20px;
     --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
     --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
     box-shadow: 0 0 #0000, 0 0 #0000, var(--tw-shadow);
@@ -592,14 +592,14 @@ button.swiper-pagination-bullet {
 }
 
 .ProfileCard_card__RNVUT.ProfileCard_default__igM5- .ProfileCard_details__T0H14{
-    margin-bottom: 1.5rem;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    margin-bottom: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
     text-align: center;
 }
 
 .ProfileCard_card__RNVUT.ProfileCard_default__igM5- .ProfileCard_details__T0H14 .ProfileCard_title__ajC1J{
-    margin-top: 0.25rem;
+    margin-top: 4px;
     font-size: 1.125rem;
     font-weight: 700;
     line-height: 1;
@@ -607,14 +607,14 @@ button.swiper-pagination-bullet {
 }
 
 .ProfileCard_card__RNVUT.ProfileCard_default__igM5- .ProfileCard_details__T0H14 h5{
-    margin-top: 0.5rem;
+    margin-top: 8px;
     font-size: 0.875rem;
     font-weight: 400;
     line-height: 1;
 }
 
 .ProfileCard_card__RNVUT.ProfileCard_default__igM5- .ProfileCard_details__T0H14 .ProfileCard_description__-1f3G{
-    margin-top: 0.75rem;
+    margin-top: 12px;
     width: 100%;
     text-align: left;
     font-size: 1rem;
@@ -646,8 +646,8 @@ button.swiper-pagination-bullet {
     border-radius: 24px;
     border-width: 2px;
     border-style: solid;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+    padding-top: 8px;
+    padding-bottom: 8px;
     --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
     --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
     box-shadow: 0 0 #0000, 0 0 #0000, var(--tw-shadow);
@@ -668,23 +668,23 @@ button.swiper-pagination-bullet {
 .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle__88ttx .ProfileCard_bottomSection__zC0Iy{
     --tw-bg-opacity: 1;
     background-color: rgb(239 244 247 / var(--tw-bg-opacity));
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
+    padding-left: 8px;
+    padding-right: 8px;
     padding-top: 1.5rem;
     padding-bottom: 1rem;
     text-align: center;
 }
 .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle__88ttx .ProfileCard_details__T0H14 .ProfileCard_title__ajC1J{
-    margin-bottom: 0.5rem;
+    margin-bottom: 8px;
     font-size: 1.75rem;
     font-weight: 700;
     line-height: 1;
 }
 .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle__88ttx .ProfileCard_bottomSection__zC0Iy .ProfileCard_buttons__QydJP{
-    margin-top: 0.5rem;
+    margin-top: 8px;
     display: flex;
     flex-direction: column;
-    row-gap: 0.5rem;
+    row-gap: 8px;
 }
 .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle__88ttx .ProfileCard_bottomSection__zC0Iy .ProfileCard_buttons__QydJP>*{
     display: block;
@@ -695,7 +695,7 @@ button.swiper-pagination-bullet {
     color: rgb(47 91 150 / var(--tw-text-opacity));
 }
 .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle__88ttx .ProfileCard_bottomSection__zC0Iy .ProfileCard_buttons__QydJP>*::after{
-    margin-left: 0.25rem;
+    margin-left: 4px;
     display: inline-block;
     height: 14px;
     width: 14px;
@@ -720,9 +720,9 @@ button.swiper-pagination-bullet {
 }
 
 .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_details__T0H14{
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
-    padding-top: 0.75rem;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 12px;
 }
 
 .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_details__T0H14 .ProfileCard_date__7kG5s{
@@ -768,9 +768,9 @@ button.swiper-pagination-bullet {
 }
 
 .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_buttons__QydJP{
-    margin-left: 0.75rem;
-    margin-right: 0.75rem;
-    margin-bottom: 1.5rem;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 24px;
 }
 .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_buttons__QydJP .ProfileCard_button__uDuVk{
     display: block;
@@ -790,7 +790,7 @@ button.swiper-pagination-bullet {
     color: rgb(26 32 36 / var(--tw-text-opacity));
 }
 .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_buttons__QydJP .ProfileCard_button__uDuVk::after{
-    margin-left: 0.25rem;
+    margin-left: 4px;
     display: inline-block;
     height: 15px;
     width: 15px;
@@ -837,7 +837,7 @@ button.swiper-pagination-bullet {
 }
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_imageWrapper__ppVg5 .ProductCard_tag__d7fzs{
     position: absolute;
-    top: 0.5rem;
+    top: 2px;
     border-top-right-radius: 0.25rem;
     border-bottom-right-radius: 0.25rem;
     --tw-bg-opacity: 1;
@@ -873,10 +873,10 @@ button.swiper-pagination-bullet {
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha-{
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
-    padding-top: 1.5rem;
-    padding-bottom: 0.75rem;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 24px;
+    padding-bottom: 12px;
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_productName__QgLhD{
@@ -900,14 +900,14 @@ button.swiper-pagination-bullet {
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_price__5Owei .ProductCard_discountPrice__konch{
-    margin-right: 0.25rem;
+    margin-right: 4px;
     display: inline-block;
     font-size: 1rem;
     font-weight: 700;
     line-height: 1;
 }
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_price__5Owei .ProductCard_actualPrice__Ln5xW{
-    margin-right: 0.25rem;
+    margin-right: 4px;
     display: inline-block;
     font-size: 0.75rem;
     font-weight: 700;
@@ -926,10 +926,10 @@ button.swiper-pagination-bullet {
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU{
-    margin-top: 0.5rem;
+    margin-top: 8px;
     display: flex;
     align-items: center;
-    column-gap: 0.25rem;
+    column-gap: 4px;
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU .ProductCard_ratings__1bLi7, .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU .ProductCard_reviews__hgZws{
@@ -941,7 +941,7 @@ button.swiper-pagination-bullet {
     border-left-width: 1px;
     --tw-border-opacity: 1;
     border-left-color: rgb(185 185 185 / var(--tw-border-opacity));
-    padding-left: 0.25rem;
+    padding-left: 4px;
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_buttons__zkn4p .ProductCard_button__95Gyp{
@@ -949,7 +949,7 @@ button.swiper-pagination-bullet {
     border-radius: 0.75rem;
     --tw-bg-opacity: 1;
     background-color: rgb(0 0 0 / var(--tw-bg-opacity));
-    padding: 0.75rem;
+    padding: 12px;
     font-size: 0.75rem;
     font-weight: 600;
     line-height: 1;
@@ -963,4 +963,4 @@ button.swiper-pagination-bullet {
     width: 100vw
 }
 
-/*# sourceMappingURL=stories-components-Carousels-Carousel-Carousel-stories.62e98825.chunk.css.map*/
+/*# sourceMappingURL=stories-components-Carousels-Carousel-Carousel-stories.74b18bf6.chunk.css.map*/

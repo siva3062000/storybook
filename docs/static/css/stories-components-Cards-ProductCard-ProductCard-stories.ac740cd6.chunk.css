@@ -27,7 +27,7 @@
 }
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_imageWrapper__ppVg5 .ProductCard_tag__d7fzs{
     position: absolute;
-    top: 0.5rem;
+    top: 2px;
     border-top-right-radius: 0.25rem;
     border-bottom-right-radius: 0.25rem;
     --tw-bg-opacity: 1;
@@ -63,10 +63,10 @@
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha-{
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
-    padding-top: 1.5rem;
-    padding-bottom: 0.75rem;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 24px;
+    padding-bottom: 12px;
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_productName__QgLhD{
@@ -90,14 +90,14 @@
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_price__5Owei .ProductCard_discountPrice__konch{
-    margin-right: 0.25rem;
+    margin-right: 4px;
     display: inline-block;
     font-size: 1rem;
     font-weight: 700;
     line-height: 1;
 }
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_price__5Owei .ProductCard_actualPrice__Ln5xW{
-    margin-right: 0.25rem;
+    margin-right: 4px;
     display: inline-block;
     font-size: 0.75rem;
     font-weight: 700;
@@ -116,10 +116,10 @@
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU{
-    margin-top: 0.5rem;
+    margin-top: 8px;
     display: flex;
     align-items: center;
-    column-gap: 0.25rem;
+    column-gap: 4px;
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU .ProductCard_ratings__1bLi7, .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_details__pdha- .ProductCard_ratingsAndReviews__329kU .ProductCard_reviews__hgZws{
@@ -131,7 +131,7 @@
     border-left-width: 1px;
     --tw-border-opacity: 1;
     border-left-color: rgb(185 185 185 / var(--tw-border-opacity));
-    padding-left: 0.25rem;
+    padding-left: 4px;
 }
 
 .ProductCard_card__-xSfw.ProductCard_boat-lifestyle-product-card__fzoSg .ProductCard_buttons__zkn4p .ProductCard_button__95Gyp{
@@ -139,7 +139,7 @@
     border-radius: 0.75rem;
     --tw-bg-opacity: 1;
     background-color: rgb(0 0 0 / var(--tw-bg-opacity));
-    padding: 0.75rem;
+    padding: 12px;
     font-size: 0.75rem;
     font-weight: 600;
     line-height: 1;
@@ -149,4 +149,4 @@
 
 /* .boat-lifestyle-product-card variant ends */
 
-/*# sourceMappingURL=stories-components-Cards-ProductCard-ProductCard-stories.7d9a3c6e.chunk.css.map*/
+/*# sourceMappingURL=stories-components-Cards-ProductCard-ProductCard-stories.ac740cd6.chunk.css.map*/

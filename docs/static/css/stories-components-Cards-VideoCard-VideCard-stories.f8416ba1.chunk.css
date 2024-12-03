@@ -39,18 +39,18 @@
 
     background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 
-    padding: 0.25rem
+    padding: 4px
 }
 
 .VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_detailsSection__C6UAs {
 
-    padding-left: 0.5rem;
+    padding-left: 8px;
 
-    padding-right: 0.5rem;
+    padding-right: 8px;
 
-    padding-top: 1.5rem;
+    padding-top: 24px;
 
-    padding-bottom: 1rem
+    padding-bottom: 16px
 }
 
 .VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_detailsSection__C6UAs .VideoCard_heading__Td8\+a {
@@ -62,11 +62,11 @@
 
 .VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_detailsSection__C6UAs .VideoCard_price__nordf {
 
-    margin-top: 1.5rem
+    margin-top: 24px
 }
 .VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_detailsSection__C6UAs .VideoCard_price__nordf .VideoCard_discountPrice__Mp2TO {
 
-    margin-right: 0.5rem;
+    margin-right: 8px;
 
     display: inline-block;
 
@@ -78,7 +78,7 @@
 }
 .VideoCard_card__KZkyb.VideoCard_boat-lifestyle-video-card__tAO2K .VideoCard_detailsSection__C6UAs .VideoCard_price__nordf .VideoCard_actualPrice__oCL6N {
 
-    margin-right: 0.5rem;
+    margin-right: 8px;
 
     display: inline-block;
 
@@ -107,4 +107,4 @@
 
 /* variant:boat-lifestyle-video-card ends */
 
-/*# sourceMappingURL=stories-components-Cards-VideoCard-VideCard-stories.f4843910.chunk.css.map*/
+/*# sourceMappingURL=stories-components-Cards-VideoCard-VideCard-stories.f8416ba1.chunk.css.map*/

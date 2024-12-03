@@ -1,0 +1,124 @@
+.RichTextEditor_wrapper__bHLOl {
+}
+
+.RichTextEditor_container__-\+oEr {
+
+    max-width: 680px;
+
+    border-radius: 10px;
+
+    border-width: 1px;
+
+    border-style: solid;
+
+    --tw-border-opacity: 1;
+
+    border-color: rgb(156 163 175 / var(--tw-border-opacity));
+
+    --tw-bg-opacity: 1;
+
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+
+    padding: 30px;
+
+    --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+
+    --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);
+
+    box-shadow: 0 0 #0000, 0 0 #0000, var(--tw-shadow);
+
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
+}
+
+.RichTextEditor_options__bYNc3 {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    align-items: center;
+
+    gap: 15px
+}
+
+.RichTextEditor_optionBtn__UG5T5 {
+
+    display: flex;
+
+    height: 26px;
+
+    width: 26px;
+
+    align-items: center;
+
+    justify-content: center;
+
+    border-radius: 4px
+}
+.RichTextEditor_optionBtn__UG5T5.RichTextEditor_active__XtXgh {
+
+    --tw-bg-opacity: 1;
+
+    background-color: rgb(203 213 225 / var(--tw-bg-opacity))
+}
+.RichTextEditor_optionSelect__rOM\+1 {
+
+    border-radius: 4px;
+
+    border-width: 1px;
+
+    border-style: solid;
+
+    --tw-border-opacity: 1;
+
+    border-color: rgb(229 231 235 / var(--tw-border-opacity));
+
+    padding: 6px
+}
+.RichTextEditor_optionColor__4fn0h {
+
+    width: 40px;
+
+    cursor: pointer;
+
+    border-radius: 15px;
+
+    border-style: none;
+
+    background-color: transparent
+}
+.RichTextEditor_inputWrapper__1IgqL {
+
+    display: flex;
+
+    align-items: center;
+
+    column-gap: 4px
+}
+.RichTextEditor_editor__w8oxF {
+
+    margin-top: 10px;
+
+    min-height: 200px;
+
+    width: 100%;
+
+    border-radius: 8px;
+
+    border-width: 1px;
+
+    border-style: solid;
+
+    --tw-border-opacity: 1;
+
+    border-color: rgb(203 213 225 / var(--tw-border-opacity));
+
+    padding: 10px;
+
+    outline: 2px solid transparent;
+
+    outline-offset: 2px
+}
+
+
+/*# sourceMappingURL=stories-components-Inputs-RichTextEditor-RichTextEditor-stories.399d0d75.chunk.css.map*/

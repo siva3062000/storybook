@@ -184,11 +184,11 @@
     line-height: 1.2;
     --tw-text-opacity: 1;
     color: rgb(25 30 35 / var(--tw-text-opacity));
-        overflow: hidden;
-        text-overflow: ellipsis;
-        display: -webkit-box;
-        -webkit-box-orient: vertical;
-        -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
 }
 
 @media (min-width: 768px){
@@ -203,11 +203,11 @@
     line-height: 1.167;
     --tw-text-opacity: 1;
     color: rgb(78 83 88 / var(--tw-text-opacity));
-        overflow: hidden;
-        text-overflow: ellipsis;
-        display: -webkit-box;
-        -webkit-box-orient: vertical;
-        -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
 }
 
 .ProfileCard_card__RNVUT.ProfileCard_boat-lifeStyle-blog-card__3U9b6 .ProfileCard_buttons__QydJP{
@@ -252,4 +252,4 @@
 
 /* boat-lifeStyle-blog-card profile card ends */
 
-/*# sourceMappingURL=stories-components-Cards-ProfileCard-ProfileCard-stories.7bafc72a.chunk.css.map*/
+/*# sourceMappingURL=stories-components-Cards-ProfileCard-ProfileCard-stories.4e97ea63.chunk.css.map*/
